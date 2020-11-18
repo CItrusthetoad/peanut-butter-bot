@@ -3,7 +3,7 @@ import random
 import time
 import asyncio
 
-TOKEN = "NzY5MjkxNzc2MjI4ODUxNzIz.X5M4zA.9q64_Ctc9-Pw5R29_9bYybeqb8k"
+TOKEN = "NzY5MjkxNzc2MjI4ODUxNzIz.X5M4zA.3FiL3gmJblbtNGGJUznA2agpNNI"
 
 client = discord.Client()
 images = ["https://imgur.com/a/nVxLm9w", "https://imgur.com/a/LjmiVDJ", "https://imgur.com/a/D7f3ufu"]
